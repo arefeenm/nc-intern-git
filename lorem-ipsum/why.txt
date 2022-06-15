@@ -1,0 +1,1 @@
+1. Is git trully a necessity? Or is it just compensation for not being able to write eternally correct code?
